@@ -3,26 +3,23 @@ import {
     Routes,
     Route,
 } from 'react-router-dom';
-import Nav from "./Routing/Nav";
-import Register from "./Routing/Register";
-import Login from "./Routing/Login";
-import MyUsers from "./Routing/MyUsers";
-import TodoList from "./Routing/TodoList";
-import Logout from "./Routing/Logout";
+import Signup from "./Routing-Components/Signup";
+import Login from "./Routing-Components/Login";
+import Details from './Routing-Components/Details';
+import Logout from "./Routing-Components/Logout";
+import Nav from "./Routing-Components/Nav";
 
-const Users: FC = () => {
-
+const MyUsers: FC = () => {
     return (
         <div>
-            <Nav/>
+            <Nav />
             <Routes>
-                <Route path='/' element={<Register/>}/>
+                <Route path='/' element={<Signup />}/>
                 <Route path='/login' element={<Login/>}/>
-                <Route path='/view/allPerson' element={<TodoList/>}/>
-                <Route path='/view/todo' element={<MyUsers/>}/>
-                <Route path='/logout' element={<Logout/>}/>
+                <Route path='/view' element={<Details />}/>
+                <Route path='/logout' element={<Logout />}/>
             </Routes>
         </div>
     )
 }
-export default Users;
+export default MyUsers;

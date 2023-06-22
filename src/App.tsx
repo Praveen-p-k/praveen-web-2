@@ -1,13 +1,9 @@
-import { FC } from "react";
-import FilterProduct from "./Filtering";
-import Users from "./Users";
-import './App.css';
+import { FC } from 'react';
+import MyUsers from './Users';
 
 const App: FC = () => {
-    return (
-        <div className="App">
-            <Users/>
-        </div>
-    )
+  return (
+    <MyUsers/>
+  )
 }
 export default App;
