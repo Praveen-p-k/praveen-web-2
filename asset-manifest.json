@@ -1,13 +1,43 @@
 {
   "files": {
-    "main.css": "/praveen-web-2/static/css/main.2035a469.css",
-    "main.js": "/praveen-web-2/static/js/main.068f33c1.js",
+    "main.css": "/praveen-web-2/static/css/main.fd8e933a.css",
+    "main.js": "/praveen-web-2/static/js/main.27bc598d.js",
+    "static/media/fullStack.png": "/praveen-web-2/static/media/fullStack.073adc2ef10dc3ce4a3f.png",
+    "static/media/Praveen Kumar (2).png": "/praveen-web-2/static/media/Praveen Kumar (2).d8ac70b38ba6ec4dd929.png",
+    "static/media/praveen kumar.png": "/praveen-web-2/static/media/praveen kumar.d3b440b9716ea7ebbd8f.png",
+    "static/media/praveen kumar (1).png": "/praveen-web-2/static/media/praveen kumar (1).b3c5306931eafaf4631d.png",
+    "static/media/Hello, Im Praveen.png": "/praveen-web-2/static/media/Hello, Im Praveen.8b0b922ed35c7f5c57c3.png",
+    "static/media/responsive.png": "/praveen-web-2/static/media/responsive.6ff7021def33bca12a0e.png",
+    "static/media/profile.png": "/praveen-web-2/static/media/profile.696cb204dd9cad52c085.png",
+    "static/media/profilePic.png": "/praveen-web-2/static/media/profilePic.3f02a64a642061d1dfed.png",
+    "static/media/withAccount.png": "/praveen-web-2/static/media/withAccount.2dcba1902b457a583fae.png",
+    "static/media/banner.png": "/praveen-web-2/static/media/banner.640f6bbe0cad07f1bec2.png",
+    "static/media/dashboard.png": "/praveen-web-2/static/media/dashboard.a62e7c2a01c9bd0ee43f.png",
+    "static/media/login.png": "/praveen-web-2/static/media/login.44c858e19ed6129c7142.png",
+    "static/media/accountList.png": "/praveen-web-2/static/media/accountList.3983a29fd8bc425b2b2b.png",
+    "static/media/mongodb.svg": "/praveen-web-2/static/media/mongodb.219f7ae3c9abd445d6b82c941ad73702.svg",
+    "static/media/instagram.svg": "/praveen-web-2/static/media/instagram.c38ca3ebe19e364f96aa29ad369c4281.svg",
+    "static/media/blockchain.svg": "/praveen-web-2/static/media/blockchain.a5abffcf4cf9ead5e2884a0a07777313.svg",
+    "static/media/mysql.svg": "/praveen-web-2/static/media/mysql.632a988d78bfe348481d8612c7da9d78.svg",
+    "static/media/java.svg": "/praveen-web-2/static/media/java.a97619dc98c6dc2725160f88806b3ae6.svg",
+    "static/media/node-js.svg": "/praveen-web-2/static/media/node-js.e7ec34b121048c0413e3af5951ae4bdd.svg",
+    "static/media/react.svg": "/praveen-web-2/static/media/react.ee05295906fd4da39a35d32417e96d63.svg",
+    "static/media/twitter.svg": "/praveen-web-2/static/media/twitter.f0d4dcb87da892dd296f44bbb66e8117.svg",
+    "static/media/typescript.svg": "/praveen-web-2/static/media/typescript.a74aaff39f18036cb9a5e7530113f753.svg",
+    "static/media/javascript.svg": "/praveen-web-2/static/media/javascript.30ffc1ab15a9fddc7e224d81fafd1f9d.svg",
+    "static/media/in.svg": "/praveen-web-2/static/media/in.642a4d88fec48946e9af2d83c5258b28.svg",
+    "static/media/github.svg": "/praveen-web-2/static/media/github.3e5c948a820496503ec112e7f448d0fc.svg",
     "index.html": "/praveen-web-2/index.html",
-    "main.2035a469.css.map": "/praveen-web-2/static/css/main.2035a469.css.map",
-    "main.068f33c1.js.map": "/praveen-web-2/static/js/main.068f33c1.js.map"
+    "static/media/Solidity.svg": "/praveen-web-2/static/media/Solidity.f5b413e8f749ed3cb8250c3f87f0e8f6.svg",
+    "static/media/c.svg": "/praveen-web-2/static/media/c.c86ab343915e382feeddbee294b35c0a.svg",
+    "static/media/fb.svg": "/praveen-web-2/static/media/fb.efcdd527fc0d26b61d05327f34d01172.svg",
+    "static/media/sun.svg": "/praveen-web-2/static/media/sun.777e08fe917c999adc60b596d1fd6bc0.svg",
+    "static/media/moon.svg": "/praveen-web-2/static/media/moon.419a54d7fe21d58b7ff65b7306a622ca.svg",
+    "main.fd8e933a.css.map": "/praveen-web-2/static/css/main.fd8e933a.css.map",
+    "main.27bc598d.js.map": "/praveen-web-2/static/js/main.27bc598d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2035a469.css",
-    "static/js/main.068f33c1.js"
+    "static/css/main.fd8e933a.css",
+    "static/js/main.27bc598d.js"
   ]
 }
