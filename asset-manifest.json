@@ -1,14 +1,13 @@
 {
   "files": {
-    "main.css": "/praveen-web-2/static/css/main.e0f23452.css",
-    "main.js": "/praveen-web-2/static/js/main.74b7bdab.js",
-    "static/media/pxfuel (1).jpg": "/praveen-web-2/static/media/pxfuel (1).1459a6c3e927df2eae04.jpg",
+    "main.css": "/praveen-web-2/static/css/main.2035a469.css",
+    "main.js": "/praveen-web-2/static/js/main.068f33c1.js",
     "index.html": "/praveen-web-2/index.html",
-    "main.e0f23452.css.map": "/praveen-web-2/static/css/main.e0f23452.css.map",
-    "main.74b7bdab.js.map": "/praveen-web-2/static/js/main.74b7bdab.js.map"
+    "main.2035a469.css.map": "/praveen-web-2/static/css/main.2035a469.css.map",
+    "main.068f33c1.js.map": "/praveen-web-2/static/js/main.068f33c1.js.map"
   },
   "entrypoints": [
-    "static/css/main.e0f23452.css",
-    "static/js/main.74b7bdab.js"
+    "static/css/main.2035a469.css",
+    "static/js/main.068f33c1.js"
   ]
 }
